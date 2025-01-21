@@ -1,3 +1,5 @@
 rootProject.name = 'data-handling'
 
 include 'file-data-handling'
+include 'nosql-data-handling'
+
